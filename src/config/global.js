@@ -243,9 +243,9 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Adobe. (2024). <i>Conceptos básicos de las capas</i>. ',
+      referencia: 'Adobe. (2023). <i>Conceptos básicos de las capas</i>. ',
       link:
-        'https://helpx.adobe.com/co/photoshop/using/masking-layers.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.2.10',
+        'https://helpx.adobe.com/es/photoshop/using/layer-basics.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.5.6',
     },
     {
       referencia: 'Adobe. (2023). <i>Máscaras de capas</i>. ',
@@ -319,7 +319,7 @@ export default {
         //},
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {

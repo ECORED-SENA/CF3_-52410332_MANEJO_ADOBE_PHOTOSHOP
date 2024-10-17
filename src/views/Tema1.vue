@@ -152,7 +152,7 @@
                 i.fas.fa-pencil-alt
                 |
                 p.mb-0 #[b Punto gris para los medios tonos.]
-            p.mb-0 Recuerde que al trabajar los medios tonos, no se afectan las sombras ni las iluminaciones.
+            p.mb-0 Recuerde que, al trabajar los medios tonos, no se afectan las sombras ni las iluminaciones.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img8.png', alt='').fig-w3.m-auto

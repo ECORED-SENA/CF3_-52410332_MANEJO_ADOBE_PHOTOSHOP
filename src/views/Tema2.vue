@@ -23,7 +23,7 @@
     #t_2_1
     .titulo-segundo.color-primario
       h2 2.1 Las máscaras de capa
-    .row.mb-4
+    .row.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         p Cuando sea necesario aislar un objeto de su fondo, se puede utilizar la herramienta borrador de fondos, pero con el agravante de que se destruye el fondo de la imagen; para evitar esta situación, lo mejor es aplicar una máscara de capa.
         .row
@@ -38,7 +38,7 @@
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img3.png', alt='').fig-w4.m-auto
-    p.mb-5(data-aos="fade-right") Al crear la primera máscara de capa, aparece listada al final de la paleta Canales con el nombre y un número compuesto por la capa a la que pertenece.
+
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-left")
         .row
@@ -112,7 +112,7 @@
             h2 2.3 Comportamiento de las máscaras
           .row.alin-items-center.mb-5
             .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-              p Las máscaras se enlazan a su correspondiente capa, sin diferenciar si son de capa o vectoriales, este comportamiento se activa por defecto en Photoshop, esto significa que si se mueve la capa hacia arriba o abajo en la pila, lo hace simultáneamente la máscara asociada a la capa.
+              p Las máscaras se enlazan a su correspondiente capa, sin diferenciar si son de capa o vectoriales, este comportamiento se activa por defecto en Photoshop, esto significa que, si se mueve la capa hacia arriba o abajo en la pila, lo hace simultáneamente la máscara asociada a la capa.
               p.mb-0 En caso de realizar transformaciones de manera aislada, a la capa o a la máscara, se debe desenlazar la máscara de su correspondiente capa; para esto, en el panel de capas, se hace clic sobre el ícono de la cadena.
             .col-lg-4(data-aos="fade-left")
               figure
